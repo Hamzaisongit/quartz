@@ -1,0 +1,13 @@
+- implicit return : => without curly braces 
+- primitive constructor : pendingYet
+	- need to look more into..ain't clear
+- css grids : pendingYet
+- when repetition of things belonging to same class..--> arrays an traversals
+- break down break down everything and turn it into a seperate module
+- curry functions and closure
+- calling curried chain altogether
+- leaving an unused param with prefix _  or just empty like foo( , para2)
+
+- function inside function.. nd so onnnnnn
+- hasOwnProperty
+- some and every methods on array

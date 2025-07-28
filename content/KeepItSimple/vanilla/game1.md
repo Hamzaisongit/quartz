@@ -1,0 +1,11 @@
+
+- child combinator.. > in queryselector
+- canvas API for gaming and objects
+- contextualize canvas and specify dimentions
+- then prepare and declare all the player attributes
+- draw methode and update methode
+- requestAnimationFrame() :- from web API for continuous rendering animation
+- groupping cases together in switch..
+	- case 1: case 2: case 3:
+- u can add event listener to window object too
+- ex.. keydown event and then access properties of this event event obj like *keyCode* or *key* 

@@ -1,5 +1,0 @@
-- call stack: how recursion happens in LIFO manner
-- rescursive thinking :
-	- need nd edge point where things stop
-	- need to figure out some methodology that stays same and repeats throughout
-- OOP: just WRAP EVERYTHING specific to something as an object to that thing..then array of such objs ..then iterating function and boom..SCAAAALE & abstraction

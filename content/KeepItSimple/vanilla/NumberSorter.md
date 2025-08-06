@@ -1,9 +1,0 @@
-- Number and parse int diff: Number is more strinct only  numbered strings like.. 34 not 34foo(NaN) WHERAS parseInt will give 34 even for 34foo 
-- assigning **fallback values** to function parameters
-- be a stingy abstractionist and funnelist..WHENEVER and the MoMeNt you see repetition.. -- scale scale and automate
-- fieldset tag HTML : just to grp together similar fields
-- input type select and it's child tag options..: (thta kinda dropdown options)
-- using getElemntbyClass and thus extracting workable local array values - that was trick
-- ALGORITHMS
-	- ![[Screenshot 2024-07-18 112626.png]]
-- sort methode on array weird behaviour and the trick to sort numbers

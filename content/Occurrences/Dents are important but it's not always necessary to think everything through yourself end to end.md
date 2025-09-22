@@ -1,0 +1,3 @@
+
+### Sparks
+- parsing table from markdown : if i just look at the solution and get my work done then that's fair as well, but what about curiosity and developing your intuition ?? for that just taking the solution *for granted* will not help your case; coz there's no gap/void/dent in your mind which teh solution will be filling when you read it; like te constants or teh premises or the recurring pattterns that you have realized by that little pondering/meditation.. so in curiosity as well.. so the entitlement induced idea that YOU should alway be teh one who finds out/figures out  the solution on your own.. won't help much actually.. Soo let there occur some dent and fill it.. but don't be arrogant/feel entitled to be the one who will work out teh solution end to end..

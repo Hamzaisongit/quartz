@@ -1,0 +1,2 @@
+- not repeating the same mistakes again and again
+- stay true to and follow through the implications of your words, commitments, responsibility, goals.. all the way & always

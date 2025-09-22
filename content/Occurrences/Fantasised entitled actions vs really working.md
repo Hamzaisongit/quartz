@@ -1,0 +1,1 @@
+- like hey i will learn abt OS linux and all low lwvwl stuff teat real actual engineers learn : But think is it actually going to help you earn money and eneter in t the inustry which you're constantly thinknking abt day and night ?

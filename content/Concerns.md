@@ -1,0 +1,8 @@
+- hissab.. : i am not well-sensible when it comes to accounts and thus i think accountability.. who owes whom and how much
+- just running away and escapism as an intoxication to get over reality: mobile scrolling, freinds leisure
+- less credit taking, less half assing and more trying 
+- i waste time in leisure and mindless time killing activities
+- i get overwhelmed trying to calibrate my thoughts with previously thought insights
+- i get frustrated and angry and bashful when using AI for coding 
+- what about my career, family and relatives and societal pressure and expectations
+- i am not as much competent when i think of - a cracked programmer, somebody in big-tech, iim ppl, bit consultancy ppl, clg cool tech guys

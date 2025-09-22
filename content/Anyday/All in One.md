@@ -1,0 +1,2 @@
+- i don't know java, dsa, system design, node(not enough), frontend(not enough), docker and all and devops and all these things
+- i waste time 

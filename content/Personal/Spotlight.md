@@ -1,0 +1,5 @@
+- Decide What you want: confuison is not always not knowing what you want but also wanting everything
+- Be serious about it: be ware of your current incapabilities, brk down into smalleer realizable goals, bias for action
+- Be in touch with the ground 
+- Avoid entitlement, live the life that's infront of you, not the script you've made up in your head
+	- social media, opinions, priorities
